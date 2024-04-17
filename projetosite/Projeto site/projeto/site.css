@@ -1,0 +1,20 @@
+body { background-color: black;
+  		margin: 5px;
+  		padding: 5px;
+
+
+  	}
+
+ header{background-color: black;}
+ aside { background-color: black }	
+
+
+
+
+a{color: black; text-decoration: none; background: white;}
+
+button{ border-radius: 30px; color: white; padding right: 15px; padding-top: 5px;}
+
+table{display: table-caption;}
+
+
